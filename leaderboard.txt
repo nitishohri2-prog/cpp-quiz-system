@@ -1,0 +1,6 @@
+es 1
+wem 1
+woo 1
+king 1
+sd 0
+gg 5

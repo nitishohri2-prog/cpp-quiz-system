@@ -1,0 +1,41 @@
+what is C++ ?
+A. Language
+B. Animal
+C. OS
+D. Car
+A
+
+Which is OOP feature?
+A. Encapsulation
+B. Loop
+C. Array
+D. File
+A
+
+What is used for input in C++ ?
+A. cout
+B. cin
+C. printf
+D. scanf
+B
+
+Which symbol is used for comments?
+A. //
+B. ##
+C. **
+D. %%
+A
+
+Which feature allows code reusability?
+A. Encapsulation
+B. Inheritance
+C. Abstraction
+D. Polymorphism
+B
+
+
+
+
+
+
+
